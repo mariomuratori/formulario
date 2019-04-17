@@ -1,8 +1,9 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto');@import url('/font-awesome-4.6.3/css/font-awesome.min.css');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('/font-awesome-4.6.3/css/font-awesome.min.css');
 
 body {
     font-family: 'Roboto', sans-serif;
-    background: url(images/imagen3.svg) no-repeat center center fixed;
+    background: url(/images/image.png) no-repeat center center fixed;
     background-size: cover;
 }
 
